@@ -1,0 +1,68 @@
+2021-06-18 16:02:49,543 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 100
+2021-06-18 16:02:49,543 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:02:52,733 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 100
+2021-06-18 16:02:52,733 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 100
+2021-06-18 16:02:52,765 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:02:52,765 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:02:52,765 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 1000
+2021-06-18 16:02:52,765 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 1000
+2021-06-18 16:02:55,935 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 1000
+2021-06-18 16:02:55,935 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 1000
+2021-06-18 16:02:55,936 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 1000
+2021-06-18 16:02:55,936 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 1000
+2021-06-18 16:02:55,960 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:02:55,960 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:02:55,960 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:02:55,961 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:02:55,961 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:02:55,961 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:02:59,045 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:02:59,090 :INFO : testAdditionFunctionalityWithNegativeValues :Got FirstNumber: -10
+2021-06-18 16:02:59,090 :INFO : testAdditionFunctionalityWithNegativeValues :Got SecondNumber: -20
+2021-06-18 16:03:02,369 :INFO : testAdditionFunctionalityWithNegativeValues :Actual Result: -30
+2021-06-18 16:03:02,369 :INFO : testAdditionFunctionalityWithNegativeValues :Expected Result : -30
+2021-06-18 16:03:17,512 :INFO : testSubtractionFunctionalityWithPositiveValues :Actual Result: 20
+2021-06-18 16:03:17,512 :INFO : testSubtractionFunctionalityWithPositiveValues :Expected Result : 20
+2021-06-18 16:03:17,550 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Got FirstNumber: -10
+2021-06-18 16:03:17,550 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Got SecondNumber: -20
+2021-06-18 16:03:20,723 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Actual Result: -30
+2021-06-18 16:03:20,723 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Expected Result : -30
+2021-06-18 16:34:08,501 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 100
+2021-06-18 16:34:08,501 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:34:11,945 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 100
+2021-06-18 16:34:11,945 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 100
+2021-06-18 16:34:12,036 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:34:12,036 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:34:12,036 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 1000
+2021-06-18 16:34:12,036 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 1000
+2021-06-18 16:34:15,414 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 1000
+2021-06-18 16:34:15,414 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 1000
+2021-06-18 16:34:15,415 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 1000
+2021-06-18 16:34:15,415 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 1000
+2021-06-18 16:34:15,452 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:34:15,452 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:34:15,452 :INFO : testAdditionFunctionalityWithPositiveValues :Got FirstNumber: 0
+2021-06-18 16:34:15,455 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:34:15,455 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:34:15,455 :INFO : testAdditionFunctionalityWithPositiveValues :Got SecondNumber: 0
+2021-06-18 16:34:18,596 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:34:18,596 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:34:18,596 :INFO : testAdditionFunctionalityWithPositiveValues :Actual Result: 0
+2021-06-18 16:34:18,597 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:34:18,597 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:34:18,597 :INFO : testAdditionFunctionalityWithPositiveValues :Expected Result : 0
+2021-06-18 16:34:18,673 :INFO : testAdditionFunctionalityWithNegativeValues :Got FirstNumber: -10
+2021-06-18 16:34:18,673 :INFO : testAdditionFunctionalityWithNegativeValues :Got SecondNumber: -20
+2021-06-18 16:34:22,256 :INFO : testAdditionFunctionalityWithNegativeValues :Actual Result: -30
+2021-06-18 16:34:22,256 :INFO : testAdditionFunctionalityWithNegativeValues :Expected Result : -30
+2021-06-18 16:34:37,834 :INFO : testSubtractionFunctionalityWithPositiveValues :Actual Result: 20
+2021-06-18 16:34:37,834 :INFO : testSubtractionFunctionalityWithPositiveValues :Expected Result : 20
+2021-06-18 16:34:37,861 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Got FirstNumber: -10
+2021-06-18 16:34:37,861 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Got SecondNumber: -20
+2021-06-18 16:34:41,067 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Actual Result: -30
+2021-06-18 16:34:41,068 :INFO : testSubtractionFunctionalityWithOnePositiveAndOneNegativeValues :Expected Result : -30

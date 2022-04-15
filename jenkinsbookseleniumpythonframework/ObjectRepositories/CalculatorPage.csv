@@ -1,0 +1,7 @@
+AddButton,BY_CSS,input[value='+']
+MinusButton,BY_CSS,input[value='-']
+MultiplicationButton,BY_CSS,input[value='*']
+DivisionButton,BY_CSS,input[value='/']
+ClearButton,BY_CSS,input[value='c']
+EqualToButton,BY_CSS,input[value='=']
+ResultField,BY_ID,result

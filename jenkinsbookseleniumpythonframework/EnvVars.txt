@@ -1,0 +1,2 @@
+ChromeDriverPath,D:\\JenkinsBookExamples\\TestCalculatorWebApplicationUsingSeleniumPython\\Drivers\\chromedriver.exe
+ApplicationURL,http://ec2-3-141-17-90.us-east-2.compute.amazonaws.com/CalculatorWebApp/Calculator.html

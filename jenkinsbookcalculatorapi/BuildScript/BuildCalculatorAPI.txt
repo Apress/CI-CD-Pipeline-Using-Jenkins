@@ -1,0 +1,62 @@
+pipeline 
+{
+    environment
+    {
+        FAILED_Stage=''
+         
+    }
+    agent any
+    
+    
+    stages 
+    {
+        
+        stage('Cloning Calculator API repository') 
+        {
+            
+            steps 
+            {
+                script
+                {
+                    FAILED_Stage=env.STAGE_NAME
+                }
+                
+                // Get the code from Gitlab repository
+                git branch: 'Master', credentialsId: 'MyGitlabAPIToken', url: 'https://gitlab.com/Pranoday/jenkinsbookcalculatorapi.git'
+            }
+        }
+        
+        stage('Deploying Calculator API')
+        {
+            
+            steps
+            {
+            
+                script
+                {
+                    FAILED_Stage=env.STAGE_NAME
+                }    
+                bat 'mvn deploy'
+                
+            }
+        }
+    }    
+    post 
+    {
+        success 
+        {
+            
+            archiveArtifacts 'target/*.jar'
+        }
+    
+        failure
+        {
+            
+            emailext attachLog: true,body: 'Stage: '+FAILED_Stage+' from Build : $BUILD_NUMBER of $JOB_NAME failed.Hence release of new build could not be done on Nexus repository.Please find detailed console log attached with this email.', subject: 'CalculatorAPI details:$DEFAULT_SUBJECT', to: 'pranoday.dingare@gmail.com'   
+            
+        }
+        
+    }
+        
+    
+}
